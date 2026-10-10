@@ -41,6 +41,17 @@ python3 -m http.server 8090
 3. 部署：把整个文件夹推到 GitHub 仓库，在 Settings → Pages 里开启，
    或直接拖进 Vercel / Netlify，即可获得在线链接。
 
+## 🌍 在线地址与更新
+
+- 在线地址：**https://jiangyuxuan765-sudo.github.io/uiux-portfolio/**
+- 源码仓库：https://github.com/jiangyuxuan765-sudo/uiux-portfolio
+
+更新方式：在本目录修改文件后提交并推送，GitHub 会在几分钟内自动重新发布：
+
+```bash
+git add -A && git commit -m "更新内容" && git push
+```
+
 ## ✏️ 如何换成你自己的内容
 
 ### 1. 基本信息（index.html）
